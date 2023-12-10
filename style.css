@@ -1,0 +1,97 @@
+body {
+margin: 0;
+font-family: 'Open Sans', sans-serif;
+}
+
+.toplinks {
+  padding-left: 30px;
+}
+
+a {
+  position: relative;
+  left: 10%;
+  padding: 5px;
+  font-size: 12px;
+  text-decoration: none;
+  color: white;
+}
+
+.vr {
+  position: relative;
+  left: 5%;
+  padding: 2px;
+  width: 2px;
+  height: 1px;
+  border-left: 1px solid white;
+}
+
+.vr2 {
+  position: relative;
+  left: 10%;
+  padding: 2px;
+  width: 2px;
+  height: 1px;
+  border-left: 1px solid white;
+}
+
+
+
+.fa {
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.search {
+  position: relative;
+  left: 2%;
+  padding-left: 200px;
+}
+.search input {
+  position: absolute;
+  top: 27%;
+  left: 23%;
+  height: 35px;
+  width: 900px;
+}
+
+.botlinks {
+  margin: 20px 0;
+  color: white;
+  text-align: center;
+  margin-top: 20px;
+  font-size:81%;
+}
+
+.leftlinks {
+  position: absolute;
+  top: 1%;
+  right: 10%;
+}
+
+.pic1 {
+  position: absolute;
+  left: 10%;
+}
+
+.icons {
+  position: absolute;
+  top: 55%;
+  left: 20%;
+  width: 50px;
+}
+
+.category {
+  position: absolute;
+  top: 67%;
+  left: 10%;
+}
+
+.category2 {
+  position: absolute;
+  top: 124%; 
+  left: 20%;
+}
+
+
+
